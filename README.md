@@ -1,14 +1,14 @@
-UNIVERSIDADE FEDERAL DA PARAÍBA
-CENTRO DE INFORMÁTICA
-Disciplina: Estrutura de Dados
-Entrega da atividade: 23/03/2023
-Lista encadeada (dinâmica)
-Implemente uma lista encadeada de inteiros, utilizando alocação dinâmica de memória, com as seguintes operações:
+# UNIVERSIDADE FEDERAL DA PARAÍBA
+# CENTRO DE INFORMÁTICA
+## Disciplina: Estrutura de Dados
 
-Criação da lista vazia;
-Verificar se a lista está vazia;
-Obter o tamanho da lista;
-Obter/modificar o valor do elemento de uma determinada posição na lista;
-Inserir um elemento em uma determinada posição;
-Retirar um elemento de uma determinada posição.
-Imprimir os elementos de toda a lista.
+### Lista encadeada (dinâmica)
+### Implemente uma lista encadeada de inteiros, utilizando alocação dinâmica de memória, com as seguintes operações:
+
+#### 1- Criação da lista vazia;
+#### 2- Verificar se a lista está vazia;
+#### 3- Obter o tamanho da lista;
+#### 4- Obter/modificar o valor do elemento de uma determinada posição na lista;
+#### 5- Inserir um elemento em uma determinada posição;
+#### 6- Retirar um elemento de uma determinada posição.
+#### 7- Imprimir os elementos de toda a lista.
