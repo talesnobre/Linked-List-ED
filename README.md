@@ -1,5 +1,5 @@
 # UNIVERSIDADE FEDERAL DA PARAÍBA
-# CENTRO DE INFORMÁTICA
+## CENTRO DE INFORMÁTICA
 ## Disciplina: Estrutura de Dados
 
 ### Lista encadeada (dinâmica)
